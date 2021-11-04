@@ -1,0 +1,34 @@
+/* Slider */
+.carousel-inner, .carousel-item {
+    height: 100vh; }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover; }
+  
+  /* Card */
+  .card-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover; }
+  
+  .looks h5 {
+    color: #fff; }
+  
+  .col-md-4 h5 {
+    font-size: 25px; }
+  
+  .card-text, .p {
+    font-size: 15px; }
+  
+  /*Footer */
+  .footer {
+    background: #E0E0E0;
+    height: 50px; }
+  
+  .footer p {
+    margin-left: 100px; }
+  
+  .list-inline-item {
+    line-height: 5px; }
+  
